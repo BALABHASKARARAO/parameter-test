@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "bala bhasar
+echo "bala bhaskar"
