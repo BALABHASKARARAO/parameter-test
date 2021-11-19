@@ -2,5 +2,5 @@
 IFS=","
 for v in $bundle
 do
-echo "var is $v"
+sh $v.sh"
 done
