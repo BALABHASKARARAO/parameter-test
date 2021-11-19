@@ -1,3 +1,3 @@
 #!/bin/bash
-STRING=${Bundle}
+STRING=${bundle}
 echo $STRING
