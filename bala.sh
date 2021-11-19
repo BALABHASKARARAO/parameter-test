@@ -2,5 +2,5 @@
 IFS=","
 for v in $bundle
 do
-sh $v.sh"
+sh $v.sh
 done
