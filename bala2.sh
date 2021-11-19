@@ -1,1 +1,2 @@
-I am bala2
+#!/bin/bash
+echo "I am bala2"
