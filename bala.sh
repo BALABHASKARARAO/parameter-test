@@ -1,8 +1,6 @@
 #!/bin/bash
-STRING="${bundle}"
-echo $STRING
-IFS=';' read -ra VALUES <<< "STRING"
-## to iterate linux command
-for i in "${VALUES[@]}"; do
-    echo $i
+IFS=","
+for v in $bundle
+do
+echo "var is $v"
 done
