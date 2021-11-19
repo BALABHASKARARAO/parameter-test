@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "bala bhaskar"
+STRING=${Bundle}
+echo $STRING
